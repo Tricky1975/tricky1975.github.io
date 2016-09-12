@@ -30,6 +30,10 @@
     <p> </p>
     <div style="Height:500pt; overflow-y: auto"> Page: <big>1</big> <a href='tft_Devlog_page2.html'>2</a> <a href='tft_Devlog_page3.html'>3</a> <a href='tft_Devlog_page4.html'>4</a> <p><table width='100%'><caption>Live DevLog</caption>
 <tr valign=top><td colspan=2><big>12 Sep 2016</big></td></tr>
+<tr valign=top><td>20:25:59</td><td align=right style='color:#b4ff00; background-color:#010200'>FIXED</td><td style='color:#b4ff00; background-color:#326400'>Version check broke up proper init. Wasn't a problem when starting a new game, but the LoadGame routine didn't like that, I suppose ;)</td></tr>
+<tr valign=top><td>20:10:56</td><td align=right style='color: rgb(188,137,174); background-color: #000000'>LINK</td><td style='color: rgb(188,137,174); background-color: rgb(94,68,87)'>The Launcher's loadgame routine should now be properly linked with the LAURA II engine. Of course I have to dump all the crap together to see if this actually works.</td></tr>
+<tr valign=top><td>20:04:10</td><td align=right style='color: rgb(187,157,213); background-color: #000000'>SCRIPT</td><td style='color: rgb(187,157,213); background-color: rgb(93,78,106)'>LoadGame.lua has an empty function the start up routine needs</td></tr>
+<tr valign=top><td>19:20:17</td><td align=right style='color: rgb(255,180,0); background-color: #020100'>DONE</td><td style='color: rgb(255,180,0); background-color: #251800'>I fed the cats</td></tr>
 <tr valign=top><td>19:13:52</td><td align=right style='color: rgb(236,175,216); background-color: #000000'>TODO</td><td style='color: rgb(236,175,216); background-color: rgb(118,87,108)'>And make sure I feed myself, as well ;)</td></tr>
 <tr valign=top><td>19:13:43</td><td align=right style='color: rgb(236,175,216); background-color: #000000'>TODO</td><td style='color: rgb(236,175,216); background-color: rgb(118,87,108)'>Feeding my ex-wife's cats</td></tr>
 <tr valign=top><td>19:13:33</td><td align=right style='color: rgb(236,175,216); background-color: #000000'>TODO</td><td style='color: rgb(236,175,216); background-color: rgb(118,87,108)'>Make the launcher send the actual data to the LAURA II engine in order to make loading save games actually work.</td></tr>
@@ -228,11 +232,6 @@
 <tr valign=top><td>08:54:04</td><td align=right style='color: rgb(178,139,127); background-color: #000000'>ART</td><td style='color: rgb(178,139,127); background-color: rgb(89,69,63)'>Sign for "Item Shop"</td></tr>
 <tr valign=top><td>08:38:07</td><td align=right style='color: rgb(178,139,127); background-color: #000000'>ART</td><td style='color: rgb(178,139,127); background-color: rgb(89,69,63)'>Sign for "Weapon Shop"</td></tr>
 <tr valign=top><td>08:31:01</td><td align=right style='color: rgb(178,139,127); background-color: #000000'>ART</td><td style='color: rgb(178,139,127); background-color: rgb(89,69,63)'>Sign for "Inn"</td></tr>
-<tr valign=top><td colspan=2><big>09 Sep 2016</big></td></tr>
-<tr valign=top><td>21:16:00</td><td align=right style='color: rgb(188,171,135); background-color: #000000'>NOTE</td><td style='color: rgb(188,171,135); background-color: rgb(94,85,67)'>And I think I must call it a day for now. I want to get this show on the road quickly, but I must watch myself not to become a workaholic.</td></tr>
-<tr valign=top><td>21:14:54</td><td align=right style='color: rgb(188,137,174); background-color: #000000'>LINK</td><td style='color: rgb(188,137,174); background-color: rgb(94,68,87)'>And the ANYWAY FOLDER is already scripted to pick up all linkers once they get created, meaning that basically all scripts can call them already if they are linked to ANYWAY, which will in 99% of the cases be the case.</td></tr>
-<tr valign=top><td>21:13:52</td><td align=right style='color: rgb(187,157,213); background-color: #000000'>SCRIPT</td><td style='color: rgb(187,157,213); background-color: rgb(93,78,106)'>The LINKERS folder has been set up. This will be a very important folder for the multiscript engine to make several scrips communicate with each other.</td></tr>
-<tr valign=top><td>21:11:47</td><td align=right style='color: rgb(187,157,213); background-color: #000000'>SCRIPT</td><td style='color: rgb(187,157,213); background-color: rgb(93,78,106)'>I also set up an AUTOUSE.LUA file for that although it's empty for the time being.</td></tr>
 </table><p>Page: <big>1</big> <a href='tft_Devlog_page2.html'>2</a> <a href='tft_Devlog_page3.html'>3</a> <a href='tft_Devlog_page4.html'>4</a>  </div>
     <center>(c) Jeroen P. Broks</center>
   </body>
