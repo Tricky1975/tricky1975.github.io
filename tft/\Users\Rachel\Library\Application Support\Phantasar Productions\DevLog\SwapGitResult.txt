@@ -1,3 +1,2 @@
-[master 5e7b16d] DevLog Update: 25 Dec 2016; 10:44:41 CET
- 25 files changed, 547 insertions(+), 553 deletions(-)
- rewrite "tft/\\Users\\Rachel\\Library\\Application Support\\Phantasar Productions\\DevLog\\SwapGitResult.txt" (100%)
+[master a6d2daf] DevLog Update: 25 Dec 2016; 11:53:26 CET
+ 25 files changed, 296 insertions(+), 284 deletions(-)
