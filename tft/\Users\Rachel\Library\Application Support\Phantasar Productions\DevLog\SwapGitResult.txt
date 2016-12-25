@@ -1,6 +1,7 @@
 On branch master
 Your branch is up-to-date with 'origin/master'.
 Changes not staged for commit:
+	modified:   "\\Users\\Rachel\\Library\\Application Support\\Phantasar Productions\\DevLog\\SwapGitResult.txt"
 	modified:   tft_Devlog_page1.html
 	modified:   tft_Devlog_page10.html
 	modified:   tft_Devlog_page11.html
@@ -25,8 +26,5 @@ Changes not staged for commit:
 	modified:   tft_Devlog_page7.html
 	modified:   tft_Devlog_page8.html
 	modified:   tft_Devlog_page9.html
-
-Untracked files:
-	"\\Users\\Rachel\\Library\\Application Support\\Phantasar Productions\\DevLog\\SwapGitResult.txt"
 
 no changes added to commit
