@@ -1,3 +1,2 @@
-[master 2e01c0d] DevLog Update: 26 Dec 2016; 17:16:12 CET
- 26 files changed, 417 insertions(+), 401 deletions(-)
- create mode 100644 "HitTheRoad/\\Users\\Rachel\\Library\\Application Support\\Phantasar Productions\\DevLog\\SwapGitResult.txt"
+[master ef71ff4] DevLog Update: 26 Dec 2016; 17:27:39 CET
+ 26 files changed, 134 insertions(+), 127 deletions(-)
