@@ -1,2 +1,2 @@
-[master a9a48c2] DevLog Update: 25 Dec 2016; 18:44:41 CET
- 26 files changed, 356 insertions(+), 341 deletions(-)
+[master aff39bb] DevLog Update: 25 Dec 2016; 22:31:38 CET
+ 26 files changed, 336 insertions(+), 324 deletions(-)
