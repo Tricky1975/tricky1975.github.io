@@ -1,2 +1,3 @@
-[master 6e4f1a2] DevLog Update: 26 Dec 2016; 15:42:05 CET
- 26 files changed, 487 insertions(+), 467 deletions(-)
+[master 2e01c0d] DevLog Update: 26 Dec 2016; 17:16:12 CET
+ 26 files changed, 417 insertions(+), 401 deletions(-)
+ create mode 100644 "HitTheRoad/\\Users\\Rachel\\Library\\Application Support\\Phantasar Productions\\DevLog\\SwapGitResult.txt"
