@@ -1,2 +1,2 @@
-[master 80cad3b] DevLog Update: 26 Dec 2016; 01:59:22 CET
- 26 files changed, 357 insertions(+), 343 deletions(-)
+[master 6e4f1a2] DevLog Update: 26 Dec 2016; 15:42:05 CET
+ 26 files changed, 487 insertions(+), 467 deletions(-)
