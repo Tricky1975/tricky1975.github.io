@@ -1,2 +1,2 @@
-[master ef71ff4] DevLog Update: 26 Dec 2016; 17:27:39 CET
- 26 files changed, 134 insertions(+), 127 deletions(-)
+[master 3090a22] DevLog Update: 26 Dec 2016; 21:06:03 CET
+ 26 files changed, 434 insertions(+), 419 deletions(-)
