@@ -1,2 +1,0 @@
-[master 3090a22] DevLog Update: 26 Dec 2016; 21:06:03 CET
- 26 files changed, 434 insertions(+), 419 deletions(-)
