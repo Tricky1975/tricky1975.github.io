@@ -241,10 +241,7 @@ const SCYNDI_PRG_MATH_DEF_RAD2DEG = ( SCYNDI_ARGUMENT_RAD ) => {
 
 
 
-
-
 // Global Variables (and constants)
-let SCYNDI_VAR_DOBBELSTEEN_ENTIRE_DOC = ""
 let SCYNDI_VAR_DOBBELSTEEN_DICE = []
 let SCYNDI_VAR_DOBBELSTEEN_TEMPBODY = ""
 
@@ -318,7 +315,8 @@ const SCYNDI_PRG_DOBBELSTEEN_VOID_HTML_TEMPLATE = (  ) => {
 	SCYNDI_PRG_SYSTEM_VOID_WRITELN([ /*[0] =*/ "Let's set the header" ])
 	document.getElementById('scyndi_head').innerHTML = "\n\t\t<title>Dobbelsteen</title>\t\t\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta http-equiv=\"Content-language\" content=\"en\"/>\n"
 	document.getElementById('scyndi_head').innerHTML = document.getElementById('scyndi_head').innerHTML + "\t<style>body{ color:rgb(180,0,255); background-color: rgb(18,0,25); } input{ color: rgb(0,180,0); background-color: rgb(0,18,25); }</style>\n"
-	document.write(SCYNDI_VAR_DOBBELSTEEN_ENTIRE_DOC);
+	SCYNDI_PRG_DOBBELSTEEN_VOID_BODYPRINT("This is just a simple web application which you can use to throw any number of dice. Just put in the number of dice in each field you wanna roll and click roll to go for it<p>")
+	SCYNDI_PRG_DOBBELSTEEN_VOID_BODYPRINT("This program has been coded in Scyndi and the source code can be found <a href='https://github.com/Wendicka/Dobbelsteen' target=_blank>here</a><p>")
 }
 
 const SCYNDI_PRG_DOBBELSTEEN_VOID_BODYPRINT = ( SCYNDI_ARGUMENT_S ) => {
@@ -328,6 +326,7 @@ const SCYNDI_PRG_DOBBELSTEEN_VOID_BODYPRINT = ( SCYNDI_ARGUMENT_S ) => {
 
 const SCYNDI_PRG_DOBBELSTEEN_VOID_BODYPUSH = (  ) => {
 	document.getElementById('scyndi_body').innerHTML = document.getElementById('scyndi_body').innerHTML + SCYNDI_VAR_DOBBELSTEEN_TEMPBODY
+	SCYNDI_VAR_DOBBELSTEEN_TEMPBODY = ""
 }
 
 const SCYNDI_PRG_DOBBELSTEEN_VOID_MAKE_D = ( SCYNDI_ARGUMENT_D ) => {
@@ -340,7 +339,7 @@ const SCYNDI_PRG_DOBBELSTEEN_VOID_DOBBEL_SETUP = (  ) => {
 	SCYNDI_LOCAL_SCOPE60_JSR = SCYNDI_PRG_DOBBELSTEEN_DEF_JSROLL()
 	SCYNDI_PRG_DOBBELSTEEN_VOID_BODYPRINT("<table><caption>Dice</caption>")
 	SCYNDI_PRG_DOBBELSTEEN_VOID_BODYPRINT("<tr><td>Die</td><td>Amount</td><td>Rolls</td><td>Totals</td><td rowspan=8><input type=submit value=Roll OnClick='" + SCYNDI_LOCAL_SCOPE60_JSR + "();'></td></tr>")
-	for(let SCYNDI_FOR4_INDEX=2;SCYNDI_FOR4_INDEX<=10; SCYNDI_FOR4_INDEX+=2){
+	for(let SCYNDI_FOR4_INDEX=2;SCYNDI_FOR4_INDEX<=12; SCYNDI_FOR4_INDEX+=2){
 		SCYNDI_PRG_DOBBELSTEEN_VOID_MAKE_D(SCYNDI_FOR4_INDEX)
 	}
 	SCYNDI_PRG_DOBBELSTEEN_VOID_MAKE_D("20")
