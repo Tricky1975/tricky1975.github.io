@@ -308,6 +308,12 @@ local _ret = {
 		["ZZNGP_NOTNAMED"] = 75, -- Gold
 		["ZZNGP_QUAYARO"] = 75, -- Gold
 	},
+	["Test"] = { 
+		["TEST1"] = 0, -- Bronze
+		["TEST2"] = 0, -- Silver
+		["TEST3"] = 0, -- Gold
+		["TEST4"] = 0, -- Platinum
+	},
 	nil
 }
 
