@@ -305,6 +305,7 @@ Init
 	_ret["TFT"]["ZZNGP_MANACAVE"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_NOTNAMED"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_QUAYARO"] = 75 // Gold
+	_ret["TFT"]["ZZNGP_QUAYARO_LEVERSTUCK"] = 50 // Silver
 	_Ret["Test"] = {}	_ret["Test"]["TEST1"] = 0 // Bronze
 	_ret["Test"]["TEST2"] = 0 // Silver
 	_ret["Test"]["TEST3"] = 0 // Gold

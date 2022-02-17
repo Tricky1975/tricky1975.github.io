@@ -307,6 +307,7 @@ local _ret = {
 		["ZZNGP_MANACAVE"] = 75, -- Gold
 		["ZZNGP_NOTNAMED"] = 75, -- Gold
 		["ZZNGP_QUAYARO"] = 75, -- Gold
+		["ZZNGP_QUAYARO_LEVERSTUCK"] = 50, -- Silver
 	},
 	["Test"] = { 
 		["TEST1"] = 0, -- Bronze
