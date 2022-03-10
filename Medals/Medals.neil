@@ -301,6 +301,7 @@ Init
 	_ret["TFT"]["ZZNGP_CATHEDRAL"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_DANDLETON"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_DEATH"] = 75 // Gold
+	_ret["TFT"]["ZZNGP_EXCALIBUR"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_LINKPAST"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_MANACAVE"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_NOTNAMED"] = 75 // Gold

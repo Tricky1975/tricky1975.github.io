@@ -303,6 +303,7 @@ local _ret = {
 		["ZZNGP_CATHEDRAL"] = 75, -- Gold
 		["ZZNGP_DANDLETON"] = 75, -- Gold
 		["ZZNGP_DEATH"] = 75, -- Gold
+		["ZZNGP_EXCALIBUR"] = 75, -- Gold
 		["ZZNGP_LINKPAST"] = 75, -- Gold
 		["ZZNGP_MANACAVE"] = 75, -- Gold
 		["ZZNGP_NOTNAMED"] = 75, -- Gold
