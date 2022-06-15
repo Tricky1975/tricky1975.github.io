@@ -5,6 +5,7 @@
 - Star Story
 - The Fairy Tale REVAMPED
 - The Secrets of Dyrt.NET
+- Who is the Virus?
 (planned)
 - Cynthia Johnson
 - Star Story II
@@ -23,6 +24,6 @@
 - Saved Games that were made prior to the medal system being supported in the respective games (conserns Star Story and Dyrt.NET most of all) will synchronize automatically on loading the Save Game or otherwise very soon when you play the game.
 - The games only use the internet to make sure the Medal Data is up to date. They do not send any data (other than the request data that is required to make a call), however Firewalls can still block this out.
 - Games that were using the Game Jolt API before won't be able to do so anymore. And no, older versions won't be able to do that either, so don't even try it.
-
+- Only the C++ version of Who Is The Virus supports Medals. The original Go version doesn't. I never created a Go version of Medals and I don't plan to do either.
 
 
