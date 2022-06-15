@@ -19,11 +19,11 @@ Init
 	_ret["Dyrt"]["ABYSS_BOSS070"] = 125 // Gold
 	_ret["Dyrt"]["ABYSS_BOSS080"] = 125 // Gold
 	_ret["Dyrt"]["ABYSS_BOSS090"] = 125 // Gold
-	_ret["Dyrt"]["ABYSS_BOSS100"] = 500 // Platinum
+	_ret["Dyrt"]["ABYSS_BOSS100"] = 100 // Platinum
 	_ret["Dyrt"]["ABYSS_COMPLETE"] = 65 // Silver
 	_ret["Dyrt"]["ABYSS_COMPLETE_1"] = 25 // Bronze
 	_ret["Dyrt"]["ABYSS_COMPLETE_2"] = 25 // Bronze
-	_ret["Dyrt"]["ABYSS_COMPLETE_3"] = 500 // Platinum
+	_ret["Dyrt"]["ABYSS_COMPLETE_3"] = 100 // Platinum
 	_ret["Dyrt"]["ABYSS_SCORE_0050"] = 25 // Bronze
 	_ret["Dyrt"]["ABYSS_SCORE_0100"] = 25 // Bronze
 	_ret["Dyrt"]["ABYSS_SCORE_0500"] = 25 // Bronze
@@ -37,7 +37,7 @@ Init
 	_ret["Dyrt"]["BOSS_BLACKGUARDIAN"] = 25 // Bronze
 	_ret["Dyrt"]["BOSS_BLENCHY_1"] = 25 // Bronze
 	_ret["Dyrt"]["BOSS_BLENCHY_2"] = 125 // Gold
-	_ret["Dyrt"]["BOSS_CGA"] = 500 // Platinum
+	_ret["Dyrt"]["BOSS_CGA"] = 100 // Platinum
 	_ret["Dyrt"]["BOSS_CREEP"] = 65 // Silver
 	_ret["Dyrt"]["BOSS_CRYSTAL"] = 65 // Silver
 	_ret["Dyrt"]["BOSS_CYBERASTRILOPUP"] = 65 // Silver
@@ -52,7 +52,7 @@ Init
 	_ret["Dyrt"]["BOSS_GRWOL"] = 125 // Gold
 	_ret["Dyrt"]["BOSS_JERACKO_1"] = 25 // Bronze
 	_ret["Dyrt"]["BOSS_JERACKO_2"] = 65 // Silver
-	_ret["Dyrt"]["BOSS_JUGGERNAUT"] = 500 // Platinum
+	_ret["Dyrt"]["BOSS_JUGGERNAUT"] = 100 // Platinum
 	_ret["Dyrt"]["BOSS_KING"] = 65 // Silver
 	_ret["Dyrt"]["BOSS_KIRANA_1"] = 25 // Bronze
 	_ret["Dyrt"]["BOSS_KIRANA_2"] = 65 // Silver
@@ -82,12 +82,12 @@ Init
 	_ret["Dyrt"]["CASH_000050000"] = 125 // Gold
 	_ret["Dyrt"]["CASH_000100000"] = 125 // Gold
 	_ret["Dyrt"]["CASH_000500000"] = 125 // Gold
-	_ret["Dyrt"]["CASH_001000000"] = 500 // Platinum
+	_ret["Dyrt"]["CASH_001000000"] = 100 // Platinum
 	_ret["Dyrt"]["CHAPTER1"] = 25 // Bronze
 	_ret["Dyrt"]["CHAPTER2"] = 65 // Silver
 	_ret["Dyrt"]["CHAPTER3"] = 125 // Gold
 	_ret["Dyrt"]["CHAPTER4"] = 125 // Gold
-	_ret["Dyrt"]["CHAPTER5"] = 500 // Platinum
+	_ret["Dyrt"]["CHAPTER5"] = 100 // Platinum
 	_ret["Dyrt"]["COMBAT_FIRST"] = 25 // Bronze
 	_ret["Dyrt"]["COMBAT_LOSE"] = 25 // Bronze
 	_ret["Dyrt"]["COMBAT_VOID"] = 25 // Bronze
@@ -110,30 +110,30 @@ Init
 	_ret["Dyrt"]["KILL_SNAKES"] = 65 // Silver
 	_ret["Dyrt"]["KILL_THE_HIRELING"] = 125 // Gold
 	_ret["Dyrt"]["KILL_WOLF"] = 65 // Silver
-	_ret["Dyrt"]["MAXSKILL_0_AZIELLA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_0_BRENDOR"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_0_DERNOR"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_0_ERIC"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_0_IRRAVONIA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_0_MERYA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_0_REBECCA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_0_SCYNDI"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_1_AZIELLA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_1_DERNOR"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_1_ERIC"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_1_IRRAVONIA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_1_MERYA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_1_SCYNDI"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_2_ERIC"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_2_IRRAVONIA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_2_SCYNDI"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_3_ERIC"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_3_IRRAVONIA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_3_SCYNDI"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_4_ERIC"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_4_IRRAVONIA"] = 500 // Platinum
-	_ret["Dyrt"]["MAXSKILL_4_SCYNDI"] = 500 // Platinum
-	_ret["Dyrt"]["NGP_ALLHERO"] = 500 // Platinum
+	_ret["Dyrt"]["MAXSKILL_0_AZIELLA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_0_BRENDOR"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_0_DERNOR"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_0_ERIC"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_0_IRRAVONIA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_0_MERYA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_0_REBECCA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_0_SCYNDI"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_1_AZIELLA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_1_DERNOR"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_1_ERIC"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_1_IRRAVONIA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_1_MERYA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_1_SCYNDI"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_2_ERIC"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_2_IRRAVONIA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_2_SCYNDI"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_3_ERIC"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_3_IRRAVONIA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_3_SCYNDI"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_4_ERIC"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_4_IRRAVONIA"] = 100 // Platinum
+	_ret["Dyrt"]["MAXSKILL_4_SCYNDI"] = 100 // Platinum
+	_ret["Dyrt"]["NGP_ALLHERO"] = 100 // Platinum
 	_ret["Dyrt"]["NGP_DIGITOPIA"] = 125 // Gold
 	_ret["Dyrt"]["NGP_HALLSMUSIC"] = 125 // Gold
 	_ret["Dyrt"]["NGP_LOSTARK"] = 65 // Silver
@@ -160,7 +160,7 @@ Init
 	_ret["Dyrt"]["SCEN_ZONDRA"] = 125 // Gold
 	_ret["Dyrt"]["SCYNDI_MALABIA"] = 125 // Gold
 	_ret["Dyrt"]["SCYNDI_THRUR"] = 125 // Gold
-	_ret["Dyrt"]["SEALED_ALL"] = 500 // Platinum
+	_ret["Dyrt"]["SEALED_ALL"] = 100 // Platinum
 	_ret["Dyrt"]["SEALED_EMPEROR"] = 125 // Gold
 	_ret["Dyrt"]["SEALED_GHOULKING"] = 125 // Gold
 	_ret["Dyrt"]["SEALED_GIGALICH"] = 125 // Gold
@@ -191,7 +191,7 @@ Init
 	_ret["Dyrt"]["ZZZ_FINISH1"] = 25 // Bronze
 	_ret["Dyrt"]["ZZZ_FINISH2"] = 65 // Silver
 	_ret["Dyrt"]["ZZZ_FINISH3"] = 125 // Gold
-	_ret["Dyrt"]["ZZZ_NEWGAMEPLUS"] = 500 // Platinum
+	_ret["Dyrt"]["ZZZ_NEWGAMEPLUS"] = 100 // Platinum
 	_Ret["StarStory"] = {}	_ret["StarStory"]["ALLABL_CRYSTAL"] = 250 // Platinum
 	_ret["StarStory"]["ALLABL_EXHURU"] = 250 // Platinum
 	_ret["StarStory"]["ALLABL_FOXY"] = 250 // Platinum
@@ -312,12 +312,12 @@ Init
 	_ret["TFT"]["ZZNGP_QUAYARO"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_QUAYARO_LEVERSTUCK"] = 50 // Silver
 	_Ret["WHOISTHEVIRUS"] = {}	_ret["WHOISTHEVIRUS"]["MICHELANGELO"] = 150 // Silver
-	_ret["WHOISTHEVIRUS"]["ILOVEYOU"] = 150 // Silver
+	_ret["WHOISTHEVIRUS"]["ILOVEYOU"] = 250 // Gold
 	_ret["WHOISTHEVIRUS"]["DATACRIME1"] = 150 // Silver
 	_ret["WHOISTHEVIRUS"]["DATACRIME2"] = 100 // Bronze
 	_ret["WHOISTHEVIRUS"]["TAIPAN"] = 100 // Bronze
 	_ret["WHOISTHEVIRUS"]["DOODLE"] = 150 // Silver
-	_ret["WHOISTHEVIRUS"]["VICTOR"] = 250 // Gold
+	_ret["WHOISTHEVIRUS"]["VICTOR"] = 1234 // HeelErgVeel
 End
 
 Return _ret
