@@ -250,6 +250,10 @@ Init
 	_ret["StarStory"]["WINGAME"] = 250 // Platinum
 	_ret["StarStory"]["ZZ_BLOCKSHOOTER_PERFECT"] = 100 // Gold
 	_ret["StarStory"]["ZZ_NIM"] = 100 // Gold
+	_Ret["Test"] = {}	_ret["Test"]["TEST1"] = 0 // Bronze
+	_ret["Test"]["TEST2"] = 0 // Silver
+	_ret["Test"]["TEST3"] = 0 // Gold
+	_ret["Test"]["TEST4"] = 0 // Platinum
 	_Ret["TFT"] = {}	_ret["TFT"]["ANNA"] = 75 // Gold
 	_ret["TFT"]["ANNA_BOSS"] = 400 // Platinum
 	_ret["TFT"]["BOSS_JUGGERNAUT"] = 400 // Platinum
@@ -307,10 +311,13 @@ Init
 	_ret["TFT"]["ZZNGP_NOTNAMED"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_QUAYARO"] = 75 // Gold
 	_ret["TFT"]["ZZNGP_QUAYARO_LEVERSTUCK"] = 50 // Silver
-	_Ret["Test"] = {}	_ret["Test"]["TEST1"] = 0 // Bronze
-	_ret["Test"]["TEST2"] = 0 // Silver
-	_ret["Test"]["TEST3"] = 0 // Gold
-	_ret["Test"]["TEST4"] = 0 // Platinum
+	_Ret["WHOISTHEVIRUS"] = {}	_ret["WHOISTHEVIRUS"]["MICHELANGELO"] = 150 // Silver
+	_ret["WHOISTHEVIRUS"]["ILOVEYOU"] = 150 // Silver
+	_ret["WHOISTHEVIRUS"]["DATACRIME1"] = 150 // Silver
+	_ret["WHOISTHEVIRUS"]["DATACRIME2"] = 100 // Bronze
+	_ret["WHOISTHEVIRUS"]["TAIPAN"] = 100 // Bronze
+	_ret["WHOISTHEVIRUS"]["DOODLE"] = 150 // Silver
+	_ret["WHOISTHEVIRUS"]["VICTOR"] = 250 // Gold
 End
 
 Return _ret

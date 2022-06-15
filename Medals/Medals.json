@@ -251,6 +251,12 @@
 		"ZZ_BLOCKSHOOTER_PERFECT":100,
 		"ZZ_NIM":100,
 	},
+	"Test" : { 
+		"TEST1":0,
+		"TEST2":0,
+		"TEST3":0,
+		"TEST4":0,
+	},
 	"TFT" : { 
 		"ANNA":75,
 		"ANNA_BOSS":400,
@@ -310,11 +316,14 @@
 		"ZZNGP_QUAYARO":75,
 		"ZZNGP_QUAYARO_LEVERSTUCK":50,
 	},
-	"Test" : { 
-		"TEST1":0,
-		"TEST2":0,
-		"TEST3":0,
-		"TEST4":0,
+	"WHOISTHEVIRUS" : { 
+		"MICHELANGELO":150,
+		"ILOVEYOU":150,
+		"DATACRIME1":150,
+		"DATACRIME2":100,
+		"TAIPAN":100,
+		"DOODLE":150,
+		"VICTOR":250,
 	},
 	"null":0
 }	"null":0

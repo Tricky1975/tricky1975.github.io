@@ -251,6 +251,12 @@ local _ret = {
 		["ZZ_BLOCKSHOOTER_PERFECT"] = 100, -- Gold
 		["ZZ_NIM"] = 100, -- Gold
 	},
+	["Test"] = { 
+		["TEST1"] = 0, -- Bronze
+		["TEST2"] = 0, -- Silver
+		["TEST3"] = 0, -- Gold
+		["TEST4"] = 0, -- Platinum
+	},
 	["TFT"] = { 
 		["ANNA"] = 75, -- Gold
 		["ANNA_BOSS"] = 400, -- Platinum
@@ -310,11 +316,14 @@ local _ret = {
 		["ZZNGP_QUAYARO"] = 75, -- Gold
 		["ZZNGP_QUAYARO_LEVERSTUCK"] = 50, -- Silver
 	},
-	["Test"] = { 
-		["TEST1"] = 0, -- Bronze
-		["TEST2"] = 0, -- Silver
-		["TEST3"] = 0, -- Gold
-		["TEST4"] = 0, -- Platinum
+	["WHOISTHEVIRUS"] = { 
+		["MICHELANGELO"] = 150, -- Silver
+		["ILOVEYOU"] = 150, -- Silver
+		["DATACRIME1"] = 150, -- Silver
+		["DATACRIME2"] = 100, -- Bronze
+		["TAIPAN"] = 100, -- Bronze
+		["DOODLE"] = 150, -- Silver
+		["VICTOR"] = 250, -- Gold
 	},
 	nil
 }
