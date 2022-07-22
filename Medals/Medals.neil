@@ -2,6 +2,16 @@ Table _ret = {}
 
 
 Init
+	_Ret["Cynthia"] = {}	_ret["Cynthia"]["CYNTHIA_START"] = 1000 // Platinum
+	_ret["Cynthia"]["CYNTHIA_EGYPT"] = 50 // Bronze
+	_ret["Cynthia"]["CYNTHIA_GREECE"] = 50 // Bronze
+	_ret["Cynthia"]["CYNTHIA_ITALY"] = 50 // Bronze
+	_ret["Cynthia"]["CYNTHIA_CHINA"] = 200 // Gold
+	_ret["Cynthia"]["CYNTHIA_IRELAND"] = 50 // Bronze
+	_ret["Cynthia"]["CYNTHIA_GERMANY"] = 100 // Silver
+	_ret["Cynthia"]["CYNTHIA_NORWAY"] = 200 // Gold
+	_ret["Cynthia"]["CYNTHIA_ATLANTIS"] = 200 // Gold
+	_ret["Cynthia"]["CYNTHIA_YAHLEVANIA"] = 50 // Bronze
 	_Ret["Dyrt"] = {}	_ret["Dyrt"]["100_AZIELLA"] = 125 // Gold
 	_ret["Dyrt"]["100_BRENDOR"] = 125 // Gold
 	_ret["Dyrt"]["100_DERNOR"] = 125 // Gold

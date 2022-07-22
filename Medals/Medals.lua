@@ -1,4 +1,16 @@
 local _ret = {
+	["Cynthia"] = { 
+		["CYNTHIA_START"] = 1000, -- Platinum
+		["CYNTHIA_EGYPT"] = 50, -- Bronze
+		["CYNTHIA_GREECE"] = 50, -- Bronze
+		["CYNTHIA_ITALY"] = 50, -- Bronze
+		["CYNTHIA_CHINA"] = 200, -- Gold
+		["CYNTHIA_IRELAND"] = 50, -- Bronze
+		["CYNTHIA_GERMANY"] = 100, -- Silver
+		["CYNTHIA_NORWAY"] = 200, -- Gold
+		["CYNTHIA_ATLANTIS"] = 200, -- Gold
+		["CYNTHIA_YAHLEVANIA"] = 50, -- Bronze
+	},
 	["Dyrt"] = { 
 		["100_AZIELLA"] = 125, -- Gold
 		["100_BRENDOR"] = 125, -- Gold
