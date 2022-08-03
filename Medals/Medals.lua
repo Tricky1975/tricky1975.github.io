@@ -263,6 +263,18 @@ local _ret = {
 		["ZZ_BLOCKSHOOTER_PERFECT"] = 100, -- Gold
 		["ZZ_NIM"] = 100, -- Gold
 	},
+	["StarStory2"] = { 
+		["KILL0000200"] = 250, -- Bronze
+		["KILL0000400"] = 250, -- Bronze
+		["KILL0001600"] = 500, -- Silver
+		["KILL0025600"] = 500, -- Silver
+		["KILL6553600"] = 750, -- Gold
+		["LV250_DOCTOR"] = 750, -- Gold
+		["LV250_KLAHRE"] = 750, -- Gold
+		["LV250_YORNO"] = 750, -- Gold
+		["SPOKEN_HEIJN"] = 500, -- Silver
+		["ZDUNG_CATWALKS"] = 500, -- Silver
+	},
 	["Test"] = { 
 		["TEST1"] = 0, -- Bronze
 		["TEST2"] = 0, -- Silver
