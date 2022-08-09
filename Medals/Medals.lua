@@ -274,6 +274,7 @@ local _ret = {
 		["LV250_YORNO"] = 750, -- Gold
 		["SPOKEN_HEIJN"] = 500, -- Silver
 		["ZDUNG_CATWALKS"] = 500, -- Silver
+		["ZDUNG_FEO"] = 750, -- Gold
 	},
 	["Test"] = { 
 		["TEST1"] = 0, -- Bronze

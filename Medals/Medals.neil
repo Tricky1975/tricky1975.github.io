@@ -270,6 +270,7 @@ Init
 	_ret["StarStory2"]["LV250_YORNO"] = 750 // Gold
 	_ret["StarStory2"]["SPOKEN_HEIJN"] = 500 // Silver
 	_ret["StarStory2"]["ZDUNG_CATWALKS"] = 500 // Silver
+	_ret["StarStory2"]["ZDUNG_FEO"] = 750 // Gold
 	_Ret["Test"] = {}	_ret["Test"]["TEST1"] = 0 // Bronze
 	_ret["Test"]["TEST2"] = 0 // Silver
 	_ret["Test"]["TEST3"] = 0 // Gold
