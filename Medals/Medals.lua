@@ -269,18 +269,14 @@ local _ret = {
 		["KILL0001600"] = 500, -- Silver
 		["KILL0025600"] = 500, -- Silver
 		["KILL6553600"] = 750, -- Gold
+		["LV250_ASHLEY"] = 750, -- Gold
 		["LV250_DOCTOR"] = 750, -- Gold
 		["LV250_KLAHRE"] = 750, -- Gold
 		["LV250_YORNO"] = 750, -- Gold
 		["SPOKEN_HEIJN"] = 500, -- Silver
+		["TROPHY_DAVID"] = 1000, -- Platinum
 		["ZDUNG_CATWALKS"] = 500, -- Silver
 		["ZDUNG_FEO"] = 750, -- Gold
-	},
-	["Test"] = { 
-		["TEST1"] = 0, -- Bronze
-		["TEST2"] = 0, -- Silver
-		["TEST3"] = 0, -- Gold
-		["TEST4"] = 0, -- Platinum
 	},
 	["TFT"] = { 
 		["ANNA"] = 75, -- Gold
