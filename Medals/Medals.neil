@@ -269,6 +269,10 @@ Init
 	_ret["StarStory2"]["LV250_DOCTOR"] = 750 // Gold
 	_ret["StarStory2"]["LV250_KLAHRE"] = 750 // Gold
 	_ret["StarStory2"]["LV250_YORNO"] = 750 // Gold
+	_ret["StarStory2"]["PHAN_ARRIVE"] = 750 // Gold
+	_ret["StarStory2"]["PHAN_DRAGON"] = 500 // Silver
+	_ret["StarStory2"]["PHAN_ISKARDERIU"] = 750 // Gold
+	_ret["StarStory2"]["PHAN_ROSETTA"] = 1000 // Platinum
 	_ret["StarStory2"]["SPOKEN_HEIJN"] = 500 // Silver
 	_ret["StarStory2"]["TROPHY_DAVID"] = 1000 // Platinum
 	_ret["StarStory2"]["ZDUNG_CATWALKS"] = 500 // Silver
