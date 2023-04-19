@@ -281,6 +281,7 @@ local _ret = {
 		["PHAN_SOUTH"] = 500, -- Silver
 		["SPOKEN_HEIJN"] = 500, -- Silver
 		["TROPHY_DAVID"] = 1000, -- Platinum
+		["ZBOSS_MIDBOSS"] = 750, -- Gold
 		["ZDUNG_CATWALKS"] = 500, -- Silver
 		["ZDUNG_FEO"] = 750, -- Gold
 		["ZDUNG_VAULT"] = 750, -- Gold
