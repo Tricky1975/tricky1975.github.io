@@ -264,6 +264,7 @@ local _ret = {
 		["ZZ_NIM"] = 100, -- Gold
 	},
 	["StarStory2"] = { 
+		["EFU_SECRET2"] = 750, -- Gold
 		["KILL0000200"] = 250, -- Bronze
 		["KILL0000400"] = 250, -- Bronze
 		["KILL0001600"] = 500, -- Silver

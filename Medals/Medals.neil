@@ -260,7 +260,8 @@ Init
 	_ret["StarStory"]["WINGAME"] = 250 // Platinum
 	_ret["StarStory"]["ZZ_BLOCKSHOOTER_PERFECT"] = 100 // Gold
 	_ret["StarStory"]["ZZ_NIM"] = 100 // Gold
-	_Ret["StarStory2"] = {}	_ret["StarStory2"]["KILL0000200"] = 250 // Bronze
+	_Ret["StarStory2"] = {}	_ret["StarStory2"]["EFU_SECRET2"] = 750 // Gold
+	_ret["StarStory2"]["KILL0000200"] = 250 // Bronze
 	_ret["StarStory2"]["KILL0000400"] = 250 // Bronze
 	_ret["StarStory2"]["KILL0001600"] = 500 // Silver
 	_ret["StarStory2"]["KILL0025600"] = 500 // Silver
