@@ -264,6 +264,7 @@ local _ret = {
 		["ZZ_NIM"] = 100, -- Gold
 	},
 	["StarStory2"] = { 
+		["AAA_EVERYTHING"] = 1000, -- Platinum
 		["EFU_SECRET2"] = 750, -- Gold
 		["KILL0000200"] = 250, -- Bronze
 		["KILL0000400"] = 250, -- Bronze
@@ -288,11 +289,6 @@ local _ret = {
 		["ZDUNG_VAULT"] = 750, -- Gold
 	},
 	["Test"] = { 
-		["TEST1"] = 0, -- Bronze
-		["TEST2"] = 0, -- Silver
-		["TEST3"] = 0, -- Gold
-		["TEST4"] = 0, -- Platinum
-	},
 	["TFT"] = { 
 		["ANNA"] = 75, -- Gold
 		["ANNA_BOSS"] = 400, -- Platinum

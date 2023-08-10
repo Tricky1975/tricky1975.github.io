@@ -264,6 +264,7 @@
 		"ZZ_NIM":100,
 	},
 	"StarStory2" : { 
+		"AAA_EVERYTHING":1000,
 		"EFU_SECRET2":750,
 		"KILL0000200":250,
 		"KILL0000400":250,
@@ -288,11 +289,6 @@
 		"ZDUNG_VAULT":750,
 	},
 	"Test" : { 
-		"TEST1":0,
-		"TEST2":0,
-		"TEST3":0,
-		"TEST4":0,
-	},
 	"TFT" : { 
 		"ANNA":75,
 		"ANNA_BOSS":400,
