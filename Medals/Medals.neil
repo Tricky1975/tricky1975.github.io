@@ -919,7 +919,7 @@ Init
 	_ret["Dyrt"]["ZZZ_FINISH2"] = 65 // Silver
 	_ret["Dyrt"]["ZZZ_FINISH3"] = 125 // Gold
 	_ret["Dyrt"]["ZZZ_NEWGAMEPLUS"] = 100 // Platinum
-	_Ret["Kxsarl"] = {}	_ret["Kxsarl"]["AAA_START"] = 15 // Bronze
+	_Ret["Kxsarl"] = {}	_ret["Kxsarl"]["AAA_START"] = 5 // Kiezelsteentje
 	_Ret["StarStory"] = {}	_ret["StarStory"]["ALLABL_CRYSTAL"] = 250 // Platinum
 	_ret["StarStory"]["ALLABL_EXHURU"] = 250 // Platinum
 	_ret["StarStory"]["ALLABL_FOXY"] = 250 // Platinum
@@ -978,36 +978,44 @@ Init
 	_ret["StarStory"]["WINGAME"] = 250 // Platinum
 	_ret["StarStory"]["ZZ_BLOCKSHOOTER_PERFECT"] = 100 // Gold
 	_ret["StarStory"]["ZZ_NIM"] = 100 // Gold
-	_Ret["StarStory2"] = {}	_ret["StarStory2"]["AAA_EVERYTHING"] = 1000 // Platinum
-	_ret["StarStory2"]["EFU_SCHWABBA"] = 750 // Gold
-	_ret["StarStory2"]["EFU_SECRET2"] = 750 // Gold
-	_ret["StarStory2"]["KILL0000200"] = 250 // Bronze
-	_ret["StarStory2"]["KILL0000400"] = 250 // Bronze
-	_ret["StarStory2"]["KILL0001600"] = 500 // Silver
-	_ret["StarStory2"]["KILL0025600"] = 500 // Silver
-	_ret["StarStory2"]["KILL6553600"] = 750 // Gold
-	_ret["StarStory2"]["LV250_ASHLEY"] = 750 // Gold
-	_ret["StarStory2"]["LV250_DOCTOR"] = 750 // Gold
-	_ret["StarStory2"]["LV250_KLAHRE"] = 750 // Gold
-	_ret["StarStory2"]["LV250_YORNO"] = 750 // Gold
-	_ret["StarStory2"]["PHAN_ARRIVE"] = 750 // Gold
-	_ret["StarStory2"]["PHAN_DOOM"] = 750 // Gold
-	_ret["StarStory2"]["PHAN_DRAGON"] = 500 // Silver
-	_ret["StarStory2"]["PHAN_ISKARDERIU"] = 750 // Gold
+	_Ret["SS2"] = {}	_ret["StarStory2"]["AAA_EVERYTHING"] = 1000 // Platinum
+	_ret["StarStory2"]["CYCLE2"] = 200 // Gold
+	_ret["StarStory2"]["CYCLE3"] = 250 // Gold2
+	_ret["StarStory2"]["CYCLE4"] = 500 // Gold3
+	_ret["StarStory2"]["EFU_SCHWABBA"] = 200 // Gold
+	_ret["StarStory2"]["EFU_SECRET2"] = 200 // Gold
+	_ret["StarStory2"]["FUNNY"] = 200 // Gold
+	_ret["StarStory2"]["KILL0000001"] = 1000 // Platinum
+	_ret["StarStory2"]["KILL0000200"] = 50 // Bronze
+	_ret["StarStory2"]["KILL0000400"] = 50 // Bronze
+	_ret["StarStory2"]["KILL0001600"] = 100 // Silver
+	_ret["StarStory2"]["KILL0025600"] = 100 // Silver
+	_ret["StarStory2"]["KILL6553600"] = 200 // Gold
+	_ret["StarStory2"]["LV250_ASHLEY"] = 200 // Gold
+	_ret["StarStory2"]["LV250_DOCTOR"] = 200 // Gold
+	_ret["StarStory2"]["LV250_KLAHRE"] = 200 // Gold
+	_ret["StarStory2"]["LV250_YORNO"] = 200 // Gold
+	_ret["StarStory2"]["PHAN_ARRIVE"] = 200 // Gold
+	_ret["StarStory2"]["PHAN_DOOM"] = 200 // Gold
+	_ret["StarStory2"]["PHAN_DRAGON"] = 100 // Silver
+	_ret["StarStory2"]["PHAN_ISKARDERIU"] = 200 // Gold
 	_ret["StarStory2"]["PHAN_ROSETTA"] = 1000 // Platinum
-	_ret["StarStory2"]["PHAN_SOUTH"] = 500 // Silver
-	_ret["StarStory2"]["SECRET_THERE_AND_BACK_AGAIN"] = 750 // Gold
-	_ret["StarStory2"]["SPOKEN_HEIJN"] = 500 // Silver
+	_ret["StarStory2"]["PHAN_SOUTH"] = 100 // Silver
+	_ret["StarStory2"]["SAVE100"] = 50 // Bronze
+	_ret["StarStory2"]["SAVE200"] = 100 // Silver
+	_ret["StarStory2"]["SAVE400"] = 200 // Gold
+	_ret["StarStory2"]["SAVE800"] = 1000 // Platinum
+	_ret["StarStory2"]["SECRET_THERE_AND_BACK_AGAIN"] = 200 // Gold
+	_ret["StarStory2"]["SPOKEN_HEIJN"] = 100 // Silver
 	_ret["StarStory2"]["TROPHY_DAVID"] = 1000 // Platinum
-	_ret["StarStory2"]["ZBOSS_MIDBOSS"] = 750 // Gold
+	_ret["StarStory2"]["VERSLAGEN_SCHWABBA"] = 200 // Gold
+	_ret["StarStory2"]["WELCOME_TO_MULAN"] = 100 // Silver
+	_ret["StarStory2"]["ZBOSS_MIDBOSS"] = 200 // Gold
 	_ret["StarStory2"]["ZBOSS_ZZZZZBHD"] = 1000 // Platinum
-	_ret["StarStory2"]["ZDUNG_CATWALKS"] = 500 // Silver
-	_ret["StarStory2"]["ZDUNG_FEO"] = 750 // Gold
-	_ret["StarStory2"]["ZDUNG_VAULT"] = 750 // Gold
-	_Ret["Test"] = {}	_ret["Test"]["TEST1"] = 0 // Bronze
-	_ret["Test"]["TEST2"] = 0 // Silver
-	_ret["Test"]["TEST3"] = 0 // Gold
-	_ret["Test"]["TEST4"] = 0 // Platinum
+	_ret["StarStory2"]["ZDUNG_CATWALKS"] = 100 // Silver
+	_ret["StarStory2"]["ZDUNG_FEO"] = 200 // Gold
+	_ret["StarStory2"]["ZDUNG_VAULT"] = 200 // Gold
+	_ret["StarStory2"]["ZZABWHISKEY"] = 250 // Gold2
 	_Ret["TFT"] = {}	_ret["TFT"]["ANNA"] = 75 // Gold
 	_ret["TFT"]["ANNA_BOSS"] = 400 // Platinum
 	_ret["TFT"]["BOSS_JUGGERNAUT"] = 400 // Platinum
