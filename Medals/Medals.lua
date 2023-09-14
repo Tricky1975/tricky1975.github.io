@@ -987,6 +987,7 @@ local _ret = {
 	},
 	["SS2"] = { 
 		["AAA_EVERYTHING"] = 1000, -- Platinum
+		["COMBAT_PARTYDEFEATED"] = 100, -- Silver
 		["CYCLE2"] = 200, -- Gold
 		["CYCLE3"] = 250, -- Gold2
 		["CYCLE4"] = 500, -- Gold3

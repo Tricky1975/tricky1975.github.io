@@ -979,6 +979,7 @@ Init
 	_ret["StarStory"]["ZZ_BLOCKSHOOTER_PERFECT"] = 100 // Gold
 	_ret["StarStory"]["ZZ_NIM"] = 100 // Gold
 	_Ret["SS2"] = {}	_ret["StarStory2"]["AAA_EVERYTHING"] = 1000 // Platinum
+	_ret["StarStory2"]["COMBAT_PARTYDEFEATED"] = 100 // Silver
 	_ret["StarStory2"]["CYCLE2"] = 200 // Gold
 	_ret["StarStory2"]["CYCLE3"] = 250 // Gold2
 	_ret["StarStory2"]["CYCLE4"] = 500 // Gold3
