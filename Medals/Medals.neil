@@ -920,6 +920,37 @@ Init
 	_ret["Dyrt"]["ZZZ_FINISH3"] = 125 // Gold
 	_ret["Dyrt"]["ZZZ_NEWGAMEPLUS"] = 100 // Platinum
 	_Ret["Kxsarl"] = {}	_ret["Kxsarl"]["AAA_START"] = 5 // Kiezelsteentje
+	_Ret["Lunas_Father"] = {}	_ret["Lunas_Father"]["KILL_00001"] = 5 // Bronze
+	_ret["Lunas_Father"]["KILL_00002"] = 5 // Bronze
+	_ret["Lunas_Father"]["KILL_00005"] = 5 // Bronze
+	_ret["Lunas_Father"]["KILL_00010"] = 5 // Bronze
+	_ret["Lunas_Father"]["KILL_00025"] = 5 // Bronze
+	_ret["Lunas_Father"]["KILL_00050"] = 5 // Bronze
+	_ret["Lunas_Father"]["KILL_00100"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_00180"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_00250"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_00500"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_01000"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_02500"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_05000"] = 20 // Gold
+	_ret["Lunas_Father"]["KILL_10000"] = 20 // Gold
+	_ret["Lunas_Father"]["KILL_25000"] = 100 // Platinum
+	_ret["Lunas_Father"]["KILL_50000"] = 100 // Platinum
+	_ret["Lunas_Father"]["SCEN_FEENALARIA"] = 5 // Bronze
+	_ret["Lunas_Father"]["SCEN_FRENDOR"] = 5 // Bronze
+	_ret["Lunas_Father"]["VICTORY_0001"] = 5 // Bronze
+	_ret["Lunas_Father"]["VICTORY_0002"] = 5 // Bronze
+	_ret["Lunas_Father"]["VICTORY_0005"] = 5 // Bronze
+	_ret["Lunas_Father"]["VICTORY_0010"] = 10 // Silver
+	_ret["Lunas_Father"]["VICTORY_0025"] = 10 // Silver
+	_ret["Lunas_Father"]["VICTORY_0050"] = 10 // Silver
+	_ret["Lunas_Father"]["VICTORY_0100"] = 10 // Silver
+	_ret["Lunas_Father"]["VICTORY_0250"] = 20 // Gold
+	_ret["Lunas_Father"]["VICTORY_0500"] = 20 // Gold
+	_ret["Lunas_Father"]["VICTORY_1000"] = 20 // Gold
+	_ret["Lunas_Father"]["VICTORY_2500"] = 100 // Platinum
+	_ret["Lunas_Father"]["VICTORY_5000"] = 100 // Platinum
+	_ret["Lunas_Father"]["VICTORY_9000"] = 100 // Platinum
 	_Ret["StarStory"] = {}	_ret["StarStory"]["ALLABL_CRYSTAL"] = 250 // Platinum
 	_ret["StarStory"]["ALLABL_EXHURU"] = 250 // Platinum
 	_ret["StarStory"]["ALLABL_FOXY"] = 250 // Platinum
