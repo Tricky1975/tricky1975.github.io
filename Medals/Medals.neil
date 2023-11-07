@@ -938,6 +938,7 @@ Init
 	_ret["Lunas_Father"]["KILL_50000"] = 100 // Platinum
 	_ret["Lunas_Father"]["SCEN_FEENALARIA"] = 5 // Bronze
 	_ret["Lunas_Father"]["SCEN_FRENDOR"] = 5 // Bronze
+	_ret["Lunas_Father"]["SCEN_TUTORIAL"] = 20 // Gold
 	_ret["Lunas_Father"]["VICTORY_0001"] = 5 // Bronze
 	_ret["Lunas_Father"]["VICTORY_0002"] = 5 // Bronze
 	_ret["Lunas_Father"]["VICTORY_0005"] = 5 // Bronze

@@ -944,6 +944,7 @@ local _ret = {
 		["KILL_50000"] = 100, -- Platinum
 		["SCEN_FEENALARIA"] = 5, -- Bronze
 		["SCEN_FRENDOR"] = 5, -- Bronze
+		["SCEN_TUTORIAL"] = 20, -- Gold
 		["VICTORY_0001"] = 5, -- Bronze
 		["VICTORY_0002"] = 5, -- Bronze
 		["VICTORY_0005"] = 5, -- Bronze
