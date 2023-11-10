@@ -926,6 +926,11 @@ local _ret = {
 		["AAA_START"] = 5, -- Kiezelsteentje
 	},
 	["Lunas_Father"] = { 
+		["ALL_MYRAH_ELEMENTS"] = 100, -- Platinum
+		["ELEMENT_MYRAH_EARTH"] = 20, -- Gold
+		["ELEMENT_MYRAH_FIRE"] = 20, -- Gold
+		["ELEMENT_MYRAH_WATER"] = 20, -- Gold
+		["ELEMENT_MYRAH_WIND"] = 20, -- Gold
 		["KILL_00001"] = 5, -- Bronze
 		["KILL_00002"] = 5, -- Bronze
 		["KILL_00005"] = 5, -- Bronze

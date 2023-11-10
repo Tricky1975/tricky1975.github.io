@@ -920,7 +920,12 @@ Init
 	_ret["Dyrt"]["ZZZ_FINISH3"] = 125 // Gold
 	_ret["Dyrt"]["ZZZ_NEWGAMEPLUS"] = 100 // Platinum
 	_Ret["Kxsarl"] = {}	_ret["Kxsarl"]["AAA_START"] = 5 // Kiezelsteentje
-	_Ret["Lunas_Father"] = {}	_ret["Lunas_Father"]["KILL_00001"] = 5 // Bronze
+	_Ret["Lunas_Father"] = {}	_ret["Lunas_Father"]["ALL_MYRAH_ELEMENTS"] = 100 // Platinum
+	_ret["Lunas_Father"]["ELEMENT_MYRAH_EARTH"] = 20 // Gold
+	_ret["Lunas_Father"]["ELEMENT_MYRAH_FIRE"] = 20 // Gold
+	_ret["Lunas_Father"]["ELEMENT_MYRAH_WATER"] = 20 // Gold
+	_ret["Lunas_Father"]["ELEMENT_MYRAH_WIND"] = 20 // Gold
+	_ret["Lunas_Father"]["KILL_00001"] = 5 // Bronze
 	_ret["Lunas_Father"]["KILL_00002"] = 5 // Bronze
 	_ret["Lunas_Father"]["KILL_00005"] = 5 // Bronze
 	_ret["Lunas_Father"]["KILL_00010"] = 5 // Bronze
