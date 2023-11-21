@@ -949,6 +949,8 @@ local _ret = {
 		["KILL_50000"] = 100, -- Platinum
 		["KILL_BOSS_BIG_BOOK"] = 10, -- Silver
 		["KILL_BOSS_MANAGUARD"] = 5, -- Bronze
+		["SCEN_ANNA"] = 100, -- Platinum
+		["SCEN_EXAMSDONE"] = 20, -- Gold
 		["SCEN_FEENALARIA"] = 5, -- Bronze
 		["SCEN_FRENDOR"] = 5, -- Bronze
 		["SCEN_TUTORIAL"] = 20, -- Gold
@@ -965,6 +967,7 @@ local _ret = {
 		["VICTORY_2500"] = 100, -- Platinum
 		["VICTORY_5000"] = 100, -- Platinum
 		["VICTORY_9000"] = 100, -- Platinum
+		["VOLTOOID_ALCHEMYTEST"] = 10, -- Silver
 		["VOLTOOID_MAGICTEST"] = 10, -- Silver
 	},
 	["StarStory"] = { 
