@@ -970,6 +970,7 @@ local _ret = {
 		["VICTORY_5000"] = 100, -- Platinum
 		["VICTORY_9000"] = 100, -- Platinum
 		["VOLTOOID_ALCHEMYTEST"] = 10, -- Silver
+		["VOLTOOID_DOUBLINEBAY"] = 5, -- Bronze
 		["VOLTOOID_MAGICTEST"] = 10, -- Silver
 	},
 	["StarStory"] = { 
