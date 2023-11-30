@@ -942,13 +942,16 @@ Init
 	_ret["Lunas_Father"]["KILL_25000"] = 100 // Platinum
 	_ret["Lunas_Father"]["KILL_50000"] = 100 // Platinum
 	_ret["Lunas_Father"]["KILL_BOSS_BIG_BOOK"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_BOSS_EAGLE"] = 10 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_MANAGUARD"] = 5 // Bronze
 	_ret["Lunas_Father"]["KILL_BOSS_SHADOWSWEEPER"] = 10 // Silver
 	_ret["Lunas_Father"]["SCEN_ANNA"] = 100 // Platinum
 	_ret["Lunas_Father"]["SCEN_EXAMSDONE"] = 20 // Gold
 	_ret["Lunas_Father"]["SCEN_FEENALARIA"] = 5 // Bronze
 	_ret["Lunas_Father"]["SCEN_FRENDOR"] = 5 // Bronze
+	_ret["Lunas_Father"]["SCEN_KOKONORA"] = 5 // Bronze
 	_ret["Lunas_Father"]["SCEN_LUNA"] = 20 // Gold
+	_ret["Lunas_Father"]["SCEN_SECRETDUNGEON"] = 5 // Bronze
 	_ret["Lunas_Father"]["SCEN_TUTORIAL"] = 20 // Gold
 	_ret["Lunas_Father"]["VICTORY_0001"] = 5 // Bronze
 	_ret["Lunas_Father"]["VICTORY_0002"] = 5 // Bronze
@@ -965,6 +968,7 @@ Init
 	_ret["Lunas_Father"]["VICTORY_9000"] = 100 // Platinum
 	_ret["Lunas_Father"]["VOLTOOID_ALCHEMYTEST"] = 10 // Silver
 	_ret["Lunas_Father"]["VOLTOOID_DOUBLINEBAY"] = 5 // Bronze
+	_ret["Lunas_Father"]["VOLTOOID_KOKOFOREST"] = 20 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_MAGICTEST"] = 10 // Silver
 	_Ret["StarStory"] = {}	_ret["StarStory"]["ALLABL_CRYSTAL"] = 250 // Platinum
 	_ret["StarStory"]["ALLABL_EXHURU"] = 250 // Platinum
