@@ -956,6 +956,7 @@ local _ret = {
 		["SCEN_EXAMSDONE"] = 20, -- Gold
 		["SCEN_FEENALARIA"] = 5, -- Bronze
 		["SCEN_FRENDOR"] = 5, -- Bronze
+		["SCEN_GAUNTLET"] = 5, -- Bronze
 		["SCEN_KOKONORA"] = 5, -- Bronze
 		["SCEN_KRANDAR"] = 5, -- Bronze
 		["SCEN_LUNA"] = 20, -- Gold
