@@ -921,6 +921,7 @@ Init
 	_ret["Dyrt"]["ZZZ_NEWGAMEPLUS"] = 100 // Platinum
 	_Ret["Kxsarl"] = {}	_ret["Kxsarl"]["AAA_START"] = 5 // Kiezelsteentje
 	_Ret["Lunas_Father"] = {}	_ret["Lunas_Father"]["ALL_MYRAH_ELEMENTS"] = 100 // Platinum
+	_ret["Lunas_Father"]["BREAK_10"] = 5 // Bronze
 	_ret["Lunas_Father"]["ELEMENT_MYRAH_EARTH"] = 20 // Gold
 	_ret["Lunas_Father"]["ELEMENT_MYRAH_FIRE"] = 20 // Gold
 	_ret["Lunas_Father"]["ELEMENT_MYRAH_WATER"] = 20 // Gold
@@ -944,6 +945,7 @@ Init
 	_ret["Lunas_Father"]["KILL_BOSS_BIG_BOOK"] = 10 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_DARKLORD"] = 20 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_EAGLE"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_BOSS_LICHKING"] = 10 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_MANAGUARD"] = 5 // Bronze
 	_ret["Lunas_Father"]["KILL_BOSS_SHADOWSWEEPER"] = 10 // Silver
 	_ret["Lunas_Father"]["SCEN_ANNA"] = 100 // Platinum
@@ -955,6 +957,7 @@ Init
 	_ret["Lunas_Father"]["SCEN_KRANDAR"] = 5 // Bronze
 	_ret["Lunas_Father"]["SCEN_LUNA"] = 20 // Gold
 	_ret["Lunas_Father"]["SCEN_MARATA"] = 5 // Bronze
+	_ret["Lunas_Father"]["SCEN_SAYONARA"] = 20 // Gold
 	_ret["Lunas_Father"]["SCEN_SECRETDUNGEON"] = 5 // Bronze
 	_ret["Lunas_Father"]["SCEN_TUTORIAL"] = 20 // Gold
 	_ret["Lunas_Father"]["VICTORY_0001"] = 5 // Bronze
