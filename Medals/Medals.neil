@@ -946,8 +946,10 @@ Init
 	_ret["Lunas_Father"]["KILL_BOSS_DARKLORD"] = 20 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_EAGLE"] = 10 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_LICHKING"] = 10 // Silver
+	_ret["Lunas_Father"]["KILL_BOSS_LKW"] = 20 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_MANAGUARD"] = 5 // Bronze
 	_ret["Lunas_Father"]["KILL_BOSS_SHADOWSWEEPER"] = 10 // Silver
+	_ret["Lunas_Father"]["MEDAL_AUTOBAHN"] = 20 // Gold
 	_ret["Lunas_Father"]["SCEN_ANNA"] = 100 // Platinum
 	_ret["Lunas_Father"]["SCEN_EXAMSDONE"] = 20 // Gold
 	_ret["Lunas_Father"]["SCEN_FEENALARIA"] = 5 // Bronze
