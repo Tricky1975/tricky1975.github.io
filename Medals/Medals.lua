@@ -954,6 +954,7 @@ local _ret = {
 		["KILL_BOSS_LICHKING"] = 10, -- Silver
 		["KILL_BOSS_LKW"] = 20, -- Gold
 		["KILL_BOSS_MANAGUARD"] = 5, -- Bronze
+		["KILL_BOSS_SHADOWROGUE"] = 10, -- Silver
 		["KILL_BOSS_SHADOWSWEEPER"] = 10, -- Silver
 		["MEDAL_AUTOBAHN"] = 20, -- Gold
 		["SCEN_ANNA"] = 100, -- Platinum
