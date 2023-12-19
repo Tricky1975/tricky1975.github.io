@@ -976,6 +976,7 @@ Init
 	_ret["Lunas_Father"]["VICTORY_5000"] = 100 // Platinum
 	_ret["Lunas_Father"]["VICTORY_9000"] = 100 // Platinum
 	_ret["Lunas_Father"]["VOLTOOID_ALCHEMYTEST"] = 10 // Silver
+	_ret["Lunas_Father"]["VOLTOOID_AUTOBAHN"] = 20 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_DARKCRYPT"] = 20 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_DOUBLINEBAY"] = 5 // Bronze
 	_ret["Lunas_Father"]["VOLTOOID_KOKOFOREST"] = 20 // Gold
