@@ -962,6 +962,7 @@ local _ret = {
 		["KILL_BOSS_SHADOWROGUE"] = 12, -- Silver
 		["KILL_BOSS_SHADOWSWEEPER"] = 12, -- Silver
 		["KILL_BOSS_TURBOCANDY"] = 25, -- Gold
+		["KILL_BOSS_VALKYRIE"] = 25, -- Gold
 		["MEDAL_AUTOBAHN"] = 25, -- Gold
 		["SCEN_ANNA"] = 125, -- Platinum
 		["SCEN_EXAMSDONE"] = 25, -- Gold
@@ -999,6 +1000,7 @@ local _ret = {
 		["VOLTOOID_QUAYARO"] = 25, -- Gold
 		["VOLTOOID_SKYTOWER"] = 25, -- Gold
 		["VOLTOOID_SUGAR"] = 25, -- Gold
+		["VOLTOOID_UNDERWORLD"] = 25, -- Gold
 	},
 	["StarStory"] = { 
 		["ALLABL_CRYSTAL"] = 250, -- Platinum
