@@ -967,6 +967,7 @@ local _ret = {
 		["MEDAL_AUTOBAHN"] = 25, -- Gold
 		["SCEN_ANNA"] = 125, -- Platinum
 		["SCEN_AZIELLA"] = 12, -- Silver
+		["SCEN_BREAKFREE"] = 25, -- Gold
 		["SCEN_EXAMSDONE"] = 25, -- Gold
 		["SCEN_FEENALARIA"] = 6, -- Bronze
 		["SCEN_FRENDOR"] = 6, -- Bronze
