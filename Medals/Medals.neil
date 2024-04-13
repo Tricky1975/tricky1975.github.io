@@ -919,6 +919,30 @@ Init
 	_ret["Dyrt"]["ZZZ_FINISH2"] = 65 // Silver
 	_ret["Dyrt"]["ZZZ_FINISH3"] = 125 // Gold
 	_ret["Dyrt"]["ZZZ_NEWGAMEPLUS"] = 100 // Platinum
+	_Ret["House Of Cards"] = {}	_ret["House Of Cards"]["FREECELL_COMPLETE"] = 100 // Bronze
+	_ret["House Of Cards"]["GOLF_COMPLETE"] = 100 // Bronze
+	_ret["House Of Cards"]["GOLF_HOLEINONE"] = 1000 // Gold
+	_ret["House Of Cards"]["KLONDIKE_COMPLETE"] = 100 // Bronze
+	_ret["House Of Cards"]["KLONDIKE_D3"] = 500 // Silver
+	_ret["House Of Cards"]["PYRAMID_COMPLETE"] = 100 // Bronze
+	_ret["House Of Cards"]["PYRAMID_PERFECT"] = 500 // Silver
+	_ret["House Of Cards"]["SOLOSLAG_COMPLETE"] = 100 // Bronze
+	_ret["House Of Cards"]["SOLOSLAG_JOKERS"] = 500 // Silver
+	_ret["House Of Cards"]["SOLOSLAG_SIX"] = 1000 // Gold
+	_ret["House Of Cards"]["SOLOSLAG_SIX_JOKERS"] = 5000 // Platinum
+	_ret["House Of Cards"]["SPIDER_COMPLETE"] = 100 // Bronze
+	_ret["House Of Cards"]["SPIDER_SPIDER2"] = 500 // Silver
+	_ret["House Of Cards"]["SPIDER_SPIDER4"] = 1000 // Gold
+	_ret["House Of Cards"]["TONKAR_COMPLETE"] = 100 // Bronze
+	_ret["House Of Cards"]["TONKAR_DIDSTACK"] = 5000 // Platinum
+	_ret["House Of Cards"]["TONKAR_FRIENDLY"] = 100 // Bronze
+	_ret["House Of Cards"]["TONKAR_FRIENDLYNO"] = 1000 // Gold
+	_ret["House Of Cards"]["TONKAR_OFCENTURY"] = 500 // Silver
+	_ret["House Of Cards"]["TONKAR_STACK4"] = 1000 // Gold
+	_ret["House Of Cards"]["TONKAR_STACK8"] = 500 // Silver
+	_ret["House Of Cards"]["TONKAR_STACKOVERFLOW"] = 1000 // Gold
+	_ret["House Of Cards"]["YUKON_COMPLETE"] = 100 // Bronze
+	_ret["House Of Cards"]["ZZZ_QUEENHEARTS"] = 1000 // Gold
 	_Ret["Kxsarl"] = {}	_ret["Kxsarl"]["AAA_START"] = 5 // Kiezelsteentje
 	_Ret["Lunas_Father"] = {}	_ret["Lunas_Father"]["ALL_MYRAH_ELEMENTS"] = 125 // Platinum
 	_ret["Lunas_Father"]["BREAK_10"] = 6 // Bronze
@@ -948,6 +972,7 @@ Init
 	_ret["Lunas_Father"]["KILL_BOSS_DARKLORD"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_DRYAD"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_EAGLE"] = 12 // Silver
+	_ret["Lunas_Father"]["KILL_BOSS_GRAPE"] = 12 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_IFRIT"] = 12 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_KRAKEN"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_LICHKING"] = 12 // Silver
@@ -972,6 +997,7 @@ Init
 	_ret["Lunas_Father"]["SCEN_KRANDAR"] = 6 // Bronze
 	_ret["Lunas_Father"]["SCEN_LUNA"] = 25 // Gold
 	_ret["Lunas_Father"]["SCEN_MARATA"] = 6 // Bronze
+	_ret["Lunas_Father"]["SCEN_QUEENHEARTS"] = 25 // Gold
 	_ret["Lunas_Father"]["SCEN_RACHEL"] = 25 // Gold
 	_ret["Lunas_Father"]["SCEN_SAYONARA"] = 25 // Gold
 	_ret["Lunas_Father"]["SCEN_SCYNDI"] = 6 // Bronze
@@ -993,6 +1019,7 @@ Init
 	_ret["Lunas_Father"]["VICTORY_9000"] = 125 // Platinum
 	_ret["Lunas_Father"]["VOLTOOID_ALCHEMYTEST"] = 12 // Silver
 	_ret["Lunas_Father"]["VOLTOOID_AUTOBAHN"] = 25 // Gold
+	_ret["Lunas_Father"]["VOLTOOID_DARKCAVES"] = 12 // Silver
 	_ret["Lunas_Father"]["VOLTOOID_DARKCRYPT"] = 25 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_DOUBLINEBAY"] = 6 // Bronze
 	_ret["Lunas_Father"]["VOLTOOID_INDIEBUSH"] = 12 // Silver
