@@ -919,11 +919,15 @@ Init
 	_ret["Dyrt"]["ZZZ_FINISH2"] = 65 // Silver
 	_ret["Dyrt"]["ZZZ_FINISH3"] = 125 // Gold
 	_ret["Dyrt"]["ZZZ_NEWGAMEPLUS"] = 100 // Platinum
-	_Ret["House Of Cards"] = {}	_ret["House Of Cards"]["FREECELL_COMPLETE"] = 100 // Bronze
+	_Ret["House Of Cards"] = {}	_ret["House Of Cards"]["BLACKHOLE_COMPLETE"] = 5000 // Platinum
+	_ret["House Of Cards"]["FREECELL_COMPLETE"] = 100 // Bronze
 	_ret["House Of Cards"]["GOLF_COMPLETE"] = 100 // Bronze
 	_ret["House Of Cards"]["GOLF_HOLEINONE"] = 1000 // Gold
 	_ret["House Of Cards"]["KLONDIKE_COMPLETE"] = 100 // Bronze
 	_ret["House Of Cards"]["KLONDIKE_D3"] = 500 // Silver
+	_ret["House Of Cards"]["MRSMOP_COMPLETE"] = 500 // Silver
+	_ret["House Of Cards"]["MRSMOP_MRSMOP2"] = 1000 // Gold
+	_ret["House Of Cards"]["MRSMOP_MRSMOP4"] = 5000 // Platinum
 	_ret["House Of Cards"]["PYRAMID_COMPLETE"] = 100 // Bronze
 	_ret["House Of Cards"]["PYRAMID_PERFECT"] = 500 // Silver
 	_ret["House Of Cards"]["SOLOSLAG_COMPLETE"] = 100 // Bronze
@@ -974,6 +978,7 @@ Init
 	_ret["Lunas_Father"]["KILL_BOSS_EAGLE"] = 12 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_GRAPE"] = 12 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_IFRIT"] = 12 // Silver
+	_ret["Lunas_Father"]["KILL_BOSS_JOKER"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_KRAKEN"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_LICHKING"] = 12 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_LKW"] = 25 // Gold
@@ -985,6 +990,7 @@ Init
 	_ret["Lunas_Father"]["KILL_BOSS_TURBOCANDY"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_VALKYRIE"] = 25 // Gold
 	_ret["Lunas_Father"]["MEDAL_AUTOBAHN"] = 25 // Gold
+	_ret["Lunas_Father"]["MEDAL_HOUSEOFCARDS"] = 12 // Silver
 	_ret["Lunas_Father"]["SCEN_ANNA"] = 125 // Platinum
 	_ret["Lunas_Father"]["SCEN_AZIELLA"] = 12 // Silver
 	_ret["Lunas_Father"]["SCEN_BREAKFREE"] = 25 // Gold
@@ -1022,6 +1028,7 @@ Init
 	_ret["Lunas_Father"]["VOLTOOID_DARKCAVES"] = 12 // Silver
 	_ret["Lunas_Father"]["VOLTOOID_DARKCRYPT"] = 25 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_DOUBLINEBAY"] = 6 // Bronze
+	_ret["Lunas_Father"]["VOLTOOID_HOUSEOFCARDS"] = 25 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_INDIEBUSH"] = 12 // Silver
 	_ret["Lunas_Father"]["VOLTOOID_KOKOFOREST"] = 25 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_MAGICTEST"] = 12 // Silver
