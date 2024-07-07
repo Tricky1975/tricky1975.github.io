@@ -999,6 +999,7 @@ local _ret = {
 		["KILL_BOSS_VALKYRIE"] = 25, -- Gold
 		["MEDAL_AUTOBAHN"] = 25, -- Gold
 		["MEDAL_HOUSEOFCARDS"] = 12, -- Silver
+		["SCEN_ANKIE"] = 25, -- Gold
 		["SCEN_ANNA"] = 125, -- Platinum
 		["SCEN_AZIELLA"] = 12, -- Silver
 		["SCEN_BREAKFREE"] = 25, -- Gold
