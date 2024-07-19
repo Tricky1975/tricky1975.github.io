@@ -993,6 +993,7 @@ local _ret = {
 		["KILL_BOSS_MANAGUARD"] = 6, -- Bronze
 		["KILL_BOSS_MOUNTAINKING"] = 12, -- Silver
 		["KILL_BOSS_OCEANMAID"] = 12, -- Silver
+		["KILL_BOSS_OLYMPYONA"] = 25, -- Gold
 		["KILL_BOSS_SHADOWROGUE"] = 12, -- Silver
 		["KILL_BOSS_SHADOWSWEEPER"] = 12, -- Silver
 		["KILL_BOSS_TURBOCANDY"] = 25, -- Gold
