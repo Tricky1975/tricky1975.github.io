@@ -1007,6 +1007,7 @@ local _ret = {
 		["SCEN_EXAMSDONE"] = 25, -- Gold
 		["SCEN_FEENALARIA"] = 6, -- Bronze
 		["SCEN_FRENDOR"] = 6, -- Bronze
+		["SCEN_FUCKFRANCIS"] = 125, -- Platinum
 		["SCEN_GAUNTLET"] = 6, -- Bronze
 		["SCEN_GRANDGNOME"] = 25, -- Gold
 		["SCEN_HARRY"] = 12, -- Silver
