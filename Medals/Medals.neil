@@ -977,6 +977,7 @@ Init
 	_ret["Lunas_Father"]["KILL_BOSS_DARKLORD"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_DRYAD"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_EAGLE"] = 12 // Silver
+	_ret["Lunas_Father"]["KILL_BOSS_FEO"] = 25 // Gold
 	_ret["Lunas_Father"]["KILL_BOSS_GRAPE"] = 12 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_IFRIT"] = 12 // Silver
 	_ret["Lunas_Father"]["KILL_BOSS_JOKER"] = 25 // Gold
@@ -1048,6 +1049,7 @@ Init
 	_ret["Lunas_Father"]["VOLTOOID_HOUSEOFCARDS"] = 25 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_INDIEBUSH"] = 12 // Silver
 	_ret["Lunas_Father"]["VOLTOOID_KOKOFOREST"] = 25 // Gold
+	_ret["Lunas_Father"]["VOLTOOID_LABYRINTH"] = 25 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_MAGICTEST"] = 12 // Silver
 	_ret["Lunas_Father"]["VOLTOOID_PURPLERAIN"] = 25 // Gold
 	_ret["Lunas_Father"]["VOLTOOID_QUAYARO"] = 25 // Gold
